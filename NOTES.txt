@@ -1,0 +1,8 @@
+200 is a http status code.
+
+To debug the code
+	node debug app.js
+
+to know the commands just enter after above command is successfull
+then type "N" which is in help commands.
+then "repl" to disply outputs of each variables
