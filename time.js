@@ -1,3 +1,3 @@
 setTimeout(function(){
-    console.log("hii")}
+    console.log("Three seconds have passed")}
     ,3000)
